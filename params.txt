@@ -1,0 +1,6 @@
+a photo of  at the hospital for monthold and later found alive her body had been taken off a bicycle with a doctors help The mother didnt tell police she received the diagnosis and was taken into custody but was released a short time later
+
+The woman was seen in hospital having blood and vomit on her left hip She was later found to be in a stable condition with no serious injuries but had an MRI to confirm she had been hit said a statement
+
+Mr Mabw
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3492576980, Size: 512x512, Model hash: 02e37aad9f, Model: openjourney_V4, Version: v1.5.1
